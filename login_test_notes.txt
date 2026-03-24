@@ -1,0 +1,26 @@
+Project: Automated Login Testing (Selenium + Python)
+
+Goal:
+- Test valid login
+- Test invalid login
+- Print results in console
+
+Demo Website:
+https://the-internet.herokuapp.com/login
+
+Username: tomsmith
+Password: SuperSecretPassword!
+
+Steps:
+1. Open browser
+2. Go to URL
+3. Enter valid username and password
+4. Click login
+5. Check success message
+6. Test invalid login
+7. Print error message
+8. Close browser
+
+Locator Types Used:
+- ID
+- CLASS_NAME
